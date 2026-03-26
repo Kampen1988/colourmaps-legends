@@ -1,7 +1,7 @@
 {
   "name": "/EODATA/CLMS/land_cover_use_in_priority_areas/urban_atlas/clms_ua_building-height _europe_10m_3yearly_v1/2021",
   "browserName": "UA BBH 3-yearly 2021",
-  "browserSearchPath": "CLMS Land Cover & Use in Priority Areas/Urban Atlas/Building Height",
+  "browserSearchPath": "CLMS Land Cover and Use in Priority Areas/Urban Atlas/Building Height",
   "collectionDescription": "Urban Atlas Building Block Height 2021 is a 10 m high resolution raster layer containing height information generated for selected cities and urban areas as part of the Urban atlas suite of products. Height information is based on satellite information and derived datasets like the digital surface model, the digital terrain model and the normalized digital surface model (DSM).",
   "linkToCLMS": "https://land.copernicus.eu/en/products/urban-atlas ",
   "spatialCoverage": "Europe",
