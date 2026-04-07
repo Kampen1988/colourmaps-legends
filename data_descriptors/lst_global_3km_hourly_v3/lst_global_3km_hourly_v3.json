@@ -28,15 +28,15 @@
     },
     {
       "fileName": "LST-ERRORBAR",
-      "layerBrowserName": "LST Error",
-      "shortDescription": "Error bar for LST (K)",
-      "longDescription": "Pixel-by-pixel uncertainty estimate for LST.",
+      "layerBrowserName": "",
+      "shortDescription": "",
+      "longDescription": "",
       "colourMapLink": "",
       "legendLink": "",
-      "units": "[K]",
-      "scale": "0.01",
-      "offSet": "0",
-      "display": 1
+      "units": "",
+      "scale": "",
+      "offSet": "",
+      "display": 0
     },
     {
       "fileName": "LST-QFLAG",
