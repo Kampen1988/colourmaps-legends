@@ -5,7 +5,7 @@
       <sld:FeatureTypeConstraint/>
     </sld:LayerFeatureConstraints>
     <sld:UserStyle>
-      <sld:Name>c_gls_LST_202301150900_GLOBE_GEO_V3.0.1 — LST</sld:Name>
+      <sld:Name>c_gls_LST10-Syn_202301150900_GLOBE_GEO_V3.0.1 — MEDIAN</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Rule>
           <sld:RasterSymbolizer>
