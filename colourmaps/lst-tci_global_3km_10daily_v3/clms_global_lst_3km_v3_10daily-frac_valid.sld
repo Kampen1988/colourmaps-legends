@@ -5,7 +5,7 @@
       <sld:FeatureTypeConstraint/>
     </sld:LayerFeatureConstraints>
     <sld:UserStyle>
-      <sld:Name>c_gls_LST10-TCI_202301110000_GLOBE_GEO_V3.0.1 — TCI</sld:Name>
+      <sld:Name>c_gls_LST10-DC-hourly_202301110900_GLOBE_GEO_V3.0.1 — FRAC_VALID_OBS</sld:Name>
       <sld:FeatureTypeStyle>
         <sld:Rule>
           <sld:RasterSymbolizer>
