@@ -1,0 +1,31 @@
+{
+  "schemaVersion": "0.0.5",
+  "eodataPath": "",
+  "browserNameVisualiseTab": "",
+  "browserNameSearchTab": "",
+  "browserSearchPath": "",
+  "collectionDescription": "",
+  "linkToCLMS": "",
+  "spatialCoverage": "",
+  "temporalExtent": {
+    "start": "",
+    "end": ""
+  },
+  "nominalSpatialResolution": "",
+  "frequency": "",
+  "thumbnailLink": "",
+  "layers": [
+    {
+      "fileName": "",
+      "layerBrowserName": "",
+      "shortDescription": "",
+      "longDescription": "",
+      "colourMapLink": "",
+      "legendLink": "",
+      "units": "[unit]",
+      "scale": "",
+      "offSet": "",
+      "display": 1
+    }
+  ]
+}
